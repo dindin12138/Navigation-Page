@@ -11,7 +11,6 @@ publishDir            = "public"					# 站点静态文件保存目录
 [params]
     author        = "shenweiyan"
     description   = "Webstack-Hugo 网址导航"
-    about         = "https://github.com/shenweiyan/WebStack-Hugo"	# 左侧导航栏的"关于导航"页面(./about)
     repository    = "https://github.com/shenweiyan/WebStack-Hugo"
     enablePreLoad = false					# 网站完全打开前预加载动画
     textPreLoad   = "Hugo 网址导航主题"				# 预加载的动画文字, 只有当enablePreLoad=true时生效
